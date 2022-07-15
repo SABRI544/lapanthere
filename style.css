@@ -46,6 +46,7 @@ a:hover {
 
 .bloc-lg {
     padding: 100px 50px;
+    
 }
 
 .bloc-md {
@@ -1038,5 +1039,11 @@ h4 {
 @media (max-width: 767px) {
     .bloc-mob-center-text {
         text-align: center;
+    }
+    .col-sm-6 a{
+        DISPLAY: FLEX;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
     }
 }
