@@ -1048,6 +1048,7 @@ h4 {
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    
     }
 }
 
@@ -1072,4 +1073,8 @@ h4 {
 }
 .row .col-sm-4{
     padding-top: 20px;
+}
+.form-group{
+    padding-top: 20px;
+    
 }
